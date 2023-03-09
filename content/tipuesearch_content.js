@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site 1', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '41023217 陳育瑋 \n 41023215 許嘉祐 \n', 'tags': '', 'url': 'About.html'}]};
