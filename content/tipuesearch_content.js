@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '41023217 陳育瑋 \n 41023215 許嘉祐 \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '41023217 陳育瑋 \n 41023215 許嘉祐 \n 倉儲:  https://github.com/mdecd2023/2b-pj1bg20.git \n 網站:  https://mde.tw/cd2023 \n', 'tags': '', 'url': 'About.html'}]};
